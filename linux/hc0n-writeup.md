@@ -49,7 +49,8 @@ Allow: iv.png
 
 `iv.png` contains **Elder Futhark runes** (Cicada 3301 theme) — a red herring for steganography, the real path is the padding oracle below.
 
-![iv.png — Elder Futhark runes](images/iv-png-runes.png)
+<img width="1568" height="721" alt="image" src="https://github.com/user-attachments/assets/795a94c2-7dc1-44c1-8f60-95f229f261a2" />
+
 
 ---
 
