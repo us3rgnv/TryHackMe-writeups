@@ -321,5 +321,3 @@ nmap → 22, 80, 8080
 | 🚩 root.txt | `thm{3xplo1t_my_m1nd}` |
 
 ---
-
-*Challenge by [@_stuxnet](https://twitter.com/_stuxnet) & [@d4mianwayne](https://twitter.com/d4mianwayne) — h-c0n 2019*
