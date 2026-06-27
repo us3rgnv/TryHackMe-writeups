@@ -87,7 +87,7 @@ Gf7MRr55
 
 ## 4. Binary RE — hola
 
-Found at `/hide-folders/1/hola`. Quick strings dump:
+Found at `/hide-folders/2/hola`. Quick strings dump:
 
 <img width="672" height="351" alt="image" src="https://github.com/user-attachments/assets/82c0d4d9-c693-4628-ba20-2247bbb7019a" />
 
