@@ -73,7 +73,7 @@ Send an **OPTIONS** request to `/hide-folders/1/`:
 
 Response:
 
-<img width="1245" height="639" alt="image" src="https://github.com/user-attachments/assets/6eb4fcfe-bbee-421f-8420-3a884103846f" />
+<img width="1265" height="703" alt="image" src="https://github.com/user-attachments/assets/8c63b6f3-2ad9-418e-b4ef-a1ed1c7b45cb" />
 
 
 ```
