@@ -1,4 +1,4 @@
-<img width="1245" height="639" alt="image" src="https://github.com/user-attachments/assets/0e68d6d6-e627-47b0-9fca-e85b8a8a3397" /># TryHackMe — hc0n Christmas CTF 2019 | Full Writeup
+# TryHackMe — hc0n Christmas CTF 2019 | Full Writeup
 
 A Christmas-themed CTF from h-c0n 2019. The chain involves cookie padding oracle, binary reverse engineering, Android APK analysis, and a ret2syscall ROP chain for root.
 
@@ -90,6 +90,7 @@ padbuster http://$IP/index.php \
 ```
 
 With the forged admin cookie, send an **OPTIONS** request to `/hide-folders/1/`:
+<img width="1245" height="639" alt="image" src="https://github.com/user-attachments/assets/0e68d6d6-e627-47b0-9fca-e85b8a8a3397" />
 
 <img width="1125" height="571" alt="image" src="https://github.com/user-attachments/assets/1fc88bc8-ca9b-46ec-9577-f94821025f2c" />
 
