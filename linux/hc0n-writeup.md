@@ -92,13 +92,6 @@ padbuster http://$IP/index.php \
 With the forged admin cookie, send an **OPTIONS** request to `/hide-folders/1/`:
 <img width="1245" height="639" alt="image" src="https://github.com/user-attachments/assets/0e68d6d6-e627-47b0-9fca-e85b8a8a3397" />
 
-<img width="1125" height="571" alt="image" src="https://github.com/user-attachments/assets/1fc88bc8-ca9b-46ec-9577-f94821025f2c" />
-
-
-```bash
-curl -X OPTIONS http://$IP/hide-folders/1/ -b "hcon=<FORGED_COOKIE>"
-```
-
 Response:
 
 <img width="1245" height="639" alt="image" src="https://github.com/user-attachments/assets/6eb4fcfe-bbee-421f-8420-3a884103846f" />
@@ -115,7 +108,7 @@ Gf7MRr55
 
 ## 4. Binary RE — hola
 
-Found at `/hide-folders/2/hola`. Quick strings dump:
+Found at `/hide-folders/1/hola`. Quick strings dump:
 
 <img width="672" height="351" alt="image" src="https://github.com/user-attachments/assets/82c0d4d9-c693-4628-ba20-2247bbb7019a" />
 
