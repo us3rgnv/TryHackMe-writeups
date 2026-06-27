@@ -136,6 +136,8 @@ const-string v6, "AES/CBC/PKCS5PADDING"
 
 The app fetches the AES key and IV dynamically by searching the web for those strings — this decrypts the port 8080 blob. Not needed for the root path, but explains the mystery service.
 
+ We can decrypte hash from 8080 at "https://www.devglan.com/online-tools/aes-encryption-decryption"
+
 ---
 
 ## 6. SSH — User Flag
