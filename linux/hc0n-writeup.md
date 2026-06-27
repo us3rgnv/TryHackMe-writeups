@@ -1,6 +1,6 @@
-# TryHackMe — hc0n Christmas CTF 2019 | Full Writeup
+# TryHackMe — hc0n Christmas CTF | Full Writeup
 
-A Christmas-themed CTF from h-c0n 2019. The chain involves cookie padding oracle, binary reverse engineering, Android APK analysis, and a ret2syscall ROP chain for root.
+A Christmas-themed CTF from h-c0n. The chain involves cookie padding oracle, binary reverse engineering, Android APK analysis, and a ret2syscall ROP chain for root.
 
 ---
 
