@@ -297,4 +297,4 @@ nmap ($IP → 80, 139, 445)
 |---|---|---|
 | web-flag.txt | `/var/www/web-flag.txt` | `THM{Nzg2ZWQwYWUwN2UwOTU3NDY5ZjVmYTYw}` |
 | user-flag.txt | `/home/fox/user-flag.txt` | `THM{Njg3NWZhNDBjMmNlMzNkMGZmMDBhYjhk}` |
-| root flag | `TBD` | *(add once retrieved from the root shell)* |
+| root flag | `TBD` | 
