@@ -14,7 +14,7 @@ Flags are redacted in every writeup (`THM{REDACTED}`), in line with TryHackMe's 
 |---|---|---|---|
 | HA: Joker CTF | Medium | Joomla, content discovery | [link](./linux/HA%20jokerCTF-writeup.md) |
 | Blog | Medium | WordPress CVE exploitation | [link](./linux/blog.thm-writeup.md) |
-| hc0n Christmas CTF | — | Crypto, reversing, mobile, ROP chain | [link](./linux/hc0n-writeup.md) |
+| hc0n Christmas CTF | Hard | Crypto, reversing, mobile, ROP chain | [link](./linux/hc0n-writeup.md) |
 | Mountaineer Linux | Hard | WordPress, path traversal | [link](./linux/mountaineer.thm-writeup.md) |
 | Mr. Robot CTF | Medium | WordPress, privilege escalation | [link](./linux/mrrobot.thm-writeup.md) |
 | Year of the Fox | Hard | Samba masquerading as Windows | [link](./linux/yearofthefox.thm-writeup.md) |
